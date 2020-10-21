@@ -1,0 +1,5 @@
+constraintlayout / relativelayout
+ => 전자의 경우가 레이아웃의 depth가 깊게 들어가지 않기때문에 view 로딩속도 향상에 도움됨.
+
+constraintlayout은 matchparent를 사용하지 않는것이 좋다
+ => view 로딩속도 향상에 도움됨.
